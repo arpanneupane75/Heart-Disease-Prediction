@@ -158,7 +158,6 @@ Heart-Disease-Prediction/
 ### Exploratory Data Analysis (EDA)
 
 ![EDA Screenshot 1](screenshots/E1.png)
-![EDA Screenshot 2](screenshots/E2.png)
 ![EDA Screenshot 3](screenshots/E3.png)
 ![EDA Screenshot 4](screenshots/E4.png)
 
@@ -203,4 +202,4 @@ MIT License – see [LICENSE](LICENSE) for details.
 Email: [arpanneupane75@gmail.com](mailto\:arpanneupane75@gmail.com)\
 Phone: +977-9869540374
 
-# Heart-Disease-Prediction
+
